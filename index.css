@@ -1,0 +1,36 @@
+body {
+    font-family: "Courier New";
+    background-color: rgb(0, 0, 0);
+}
+
+header {
+    color: turquoise;
+    text-align: center;
+    border-bottom: 2px solid turquoise;
+    margin-top: 30px;
+    margin-left:100px;
+    margin-right: 100px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: turquoise;
+    border: 1px solid turquoise;
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+li h3 {
+    font-size: 25px;
+}
+
+#blog-link {
+    padding-top: 75px;
+    padding-left: 60px;
+    color: white;
+}
