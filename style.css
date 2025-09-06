@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 18pt;
+    text-decoration: underline;
+}
+
+body {
+    background-color: white;
+    color: #404040;
+    font-size: 11pt;
+    font-family: Gerogia, Garamond, serif;
+    
+    background-image: url("https://w0.peakpx.com/wallpaper/827/672/HD-wallpaper-eiffel-tower-paris-city-autumn-iphone-xs-iphone-10-iphone-x-background-and.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+a {
+    color:#A4A400
+}
+
+blockquote {
+    font-style: italic;
+    padding: 10px 20px;
+    background-color: #FFFFA8;
+}
